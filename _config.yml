@@ -1,7 +1,7 @@
 name: www.michelkammoun.com
 favicon: null
 layout_spectrum: 0.827440673019737
-typography_spectrum: 0.24566
+typography_spectrum: 0.51156
 collections:
   - index:
       path: /
@@ -36,6 +36,6 @@ color:
     - '#8e8a87'
   brandStrength: 0.2169892191886902
   lightness: 0.1437986090313643
-  saturation: 0.4176715300418437
-  rhythmicContrast: 0.006590686738491058
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
