@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.625
+  saturation: 0.4802867
   brandStrength: 0.2169892191886902
-  rhythmicContrast: 0.5
+  lightness: 0.1437986
   brandColors:
     - '#3a3730'
     - '#d6d7d2'
     - '#a4a5a0'
     - '#5c5952'
     - '#7e7f7a'
-  lightness: 0.1437986090313643
+  rhythmicContrast: 0.344086
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: michelkammoun.com
+favicon: null
 opengraph:
   image: null
   type: null
