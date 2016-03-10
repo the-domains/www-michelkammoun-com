@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.625
   brandStrength: 0.2169892191886902
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: www.michelkammoun.com
 favicon: null
+name: www.michelkammoun.com
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6129032
-layout_spectrum: 0.827440673019737
+layout_spectrum: 0.1344086
