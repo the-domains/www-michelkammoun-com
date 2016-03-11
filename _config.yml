@@ -1,5 +1,8 @@
+name: michelkammoun.com
+favicon: null
+layout_spectrum: 0.3136201
+typography_spectrum: 0.6129032
 title: michel kammoun
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4802867
-  brandStrength: 0.2169892191886902
-  lightness: 0.1437986
   brandColors:
     - '#3a3730'
     - '#d6d7d2'
     - '#a4a5a0'
     - '#5c5952'
     - '#7e7f7a'
-  rhythmicContrast: 0.344086
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: michelkammoun.com
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6129032
-layout_spectrum: 0.3136201
+  brandStrength: 0
+  lightness: 0.1437986
+  saturation: 0.4802867
+  rhythmicContrast: 0
+purpose: []
