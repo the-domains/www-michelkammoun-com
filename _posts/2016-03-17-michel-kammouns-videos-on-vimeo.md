@@ -17,8 +17,8 @@ keywords:
   - credited
   - always
 description: "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads."
-datePublished: '2016-03-17T08:38:13.800Z'
-dateModified: '2016-03-17T08:38:08.051Z'
+datePublished: '2016-03-17T08:41:30.041Z'
+dateModified: '2016-03-17T08:41:04.150Z'
 author:
   - avatar: {}
 related: []
@@ -36,6 +36,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>michel kammoun's Videos on Vimeo</h1><p>Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfbcb2af2d0e5c73de72b7eeda2d10c4a68622a4.jpg" /></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9f4ff64-a99b-4289-b984-a8b30c0891c8.png)
+
+<article style=""><h1>michel kammoun's Videos on Vimeo</h1><p>Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfbcb2af2d0e5c73de72b7eeda2d10c4a68622a4.jpg" /></article>
