@@ -17,8 +17,8 @@ keywords:
   - rue
   - directories
 description: 'Activities : Director, Adapter/dialogue writer, Screenwriter, Director of Photography, Production Manager. Recent filmography : Melodrama Habibi (2008), Falafel (2006), Shower (The) (2000)...'
-datePublished: '2016-03-17T08:33:17.784Z'
-dateModified: '2016-03-17T08:30:09.744Z'
+datePublished: '2016-03-17T08:40:27.109Z'
+dateModified: '2016-03-17T08:35:38.988Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Michel Kammoun</h1><p>Activities &amp;colon; Director&amp;comma; Adapter&amp;sol;dialogue writer&amp;comma; Screenwriter&amp;comma; Director of Photography&amp;comma; Production Manager&amp;period; Recent filmography &amp;colon; Melodrama Habibi &amp;lpar;2008&amp;rpar;&amp;comma; Falafel &amp;lpar;2006&amp;rpar;&amp;comma; Shower &amp;lpar;The&amp;rpar; &amp;lpar;2000&amp;rpar;&amp;period;&amp;period;&amp;period;</p><img src="http://en.unifrance.org/ressources/internet/images/unifrance_placeholders/unifrance_placeholders_01_portrait_person_black.png" /></article>
+<article style=""><h1>Michel Kammoun</h1><p>Activities : Director, Adapter/dialogue writer, Screenwriter, Director of Photography, Production Manager. Recent filmography : Melodrama Habibi (2008), Falafel (2006), Shower (The) (2000)...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e193dd11fa3ba6c0f33cc8f82747b7d7ba570909.png" /></article>
