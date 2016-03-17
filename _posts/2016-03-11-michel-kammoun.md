@@ -17,8 +17,8 @@ keywords:
   - rue
   - directories
 description: 'Activities : Director, Adapter/dialogue writer, Screenwriter, Director of Photography, Production Manager. Recent filmography : Melodrama Habibi (2008), Falafel (2006), Shower (The) (2000)...'
-datePublished: '2016-03-17T08:23:57.438Z'
-dateModified: '2016-03-17T08:23:41.523Z'
+datePublished: '2016-03-17T08:26:06.205Z'
+dateModified: '2016-03-17T08:25:30.324Z'
 author: []
 related: []
 app_links: []
