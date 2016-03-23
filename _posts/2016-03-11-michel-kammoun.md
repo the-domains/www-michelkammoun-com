@@ -1,30 +1,38 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: true
-keywords: []
-description: ''
-datePublished: '2016-03-23T08:23:23.416Z'
-dateModified: '2016-03-23T08:21:10.445Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://en.unifrance.org/directories/person/134087/michel-kammoun'
+inLanguage: en
+starred: false
+keywords:
+  - filmsbox
+  - marketsindustry
+  - '75010'
+  - histoire
+  - filmsshort
+  - newsfeature
+  - officefestivals
+  - paradis
+  - rue
+  - directories
+description: 'Activities : Director, Adapter/dialogue writer, Screenwriter, Director of Photography, Production Manager. Recent filmography : Melodrama Habibi (2008), Falafel (2006), Shower (The) (2000)...'
+datePublished: '2016-03-23T08:27:06.522Z'
+dateModified: '2016-03-23T08:27:04.709Z'
 author: []
 related: []
 app_links: []
-title: IMDB
+title: Michel Kammoun
 sourcePath: _posts/2016-03-11-michel-kammoun.md
 published: true
 authors: []
 publisher:
-  name: IMDb
-  domain: m.imdb.com
-  url: 'http://m.imdb.com'
-  favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/mobile/android-mobile-196x196-1358942022._CB361295825_.png'
-url: imdb/index.html
+  name: Unifrance
+  domain: en.unifrance.org
+  url: 'http://en.unifrance.org'
+  favicon: 'http://en.unifrance.org/ressources/internet/images/global/favicon.gif'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-IMDB
-
-<article style=""><h1>Michel Kammoun</h1><p>Michel Kammoun was born in 1969&amp;period; After studying architecture&amp;comma; he joined the film school ESEC in &amp;period;&amp;period;&amp;period;</p><img src="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB306318125_.png" /></article>
+<article style=""><h1>Michel Kammoun</h1><p>Activities : Director, Adapter/dialogue writer, Screenwriter, Director of Photography, Production Manager. Recent filmography : Melodrama Habibi (2008), Falafel (2006), Shower (The) (2000)...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e193dd11fa3ba6c0f33cc8f82747b7d7ba570909.png" /></article>
