@@ -20,8 +20,8 @@ description: >-
   film school ESEC, in Paris. He has written and directed many short films
   including Cathodique (1993), Shadows (1995), The Shower (1999), Clowning
   Around/The Vanishing Rabbits (2003).
-datePublished: '2016-06-29T09:57:21.611Z'
-dateModified: '2016-06-29T09:55:43.186Z'
+datePublished: '2016-06-29T09:59:59.227Z'
+dateModified: '2016-06-29T09:59:55.978Z'
 author: []
 related: []
 app_links:
