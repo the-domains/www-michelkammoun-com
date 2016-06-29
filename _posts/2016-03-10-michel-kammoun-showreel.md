@@ -1,16 +1,20 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/49275166'
+inLanguage: null
+keywords: []
+description: >-
+  Michel Kammoun SHOWREEL Bande demo. Cinema. Fiction work. (Travail de fiction.
+  Cinéma)
+datePublished: '2016-06-29T09:56:57.074Z'
+dateModified: '2016-06-29T09:56:54.424Z'
 author:
   - name: michel kammoun
     url: 'http://vimeo.com/user2337986'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: Michel Kammoun SHOWREEL Bande demo. Cinema. Fiction work. (Travail de fiction. Cinéma)
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/49275166'
     type: ios
@@ -38,15 +42,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/49275166'
 title: Michel Kammoun - SHOWREEL
-datePublished: '2016-03-11T12:33:45.357Z'
-dateModified: '2016-03-11T05:06:52.352Z'
 sourcePath: _posts/2016-03-10-michel-kammoun-showreel.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
