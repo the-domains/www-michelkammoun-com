@@ -1,23 +1,27 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.quellebellehistoire.com'
-  name: Quellebellehistoire
-  favicon: null
-  domain: www.quellebellehistoire.com
-keywords: []
-description: "Quelle Belle Histoire, agence d'agents pour scénariste de cinéma et télévision, auteurs de DB et romanciers"
-app_links: []
-isBasedOnUrl: 'http://www.quellebellehistoire.com/auteurs/realisateurs_cinema.html'
-title: '--|-- Quelle Belle Histoire --|--'
-datePublished: '2016-03-11T09:22:12.168Z'
-dateModified: '2016-03-11T09:21:41.877Z'
-sourcePath: _posts/2016-03-11--or-quelle-belle-histoire-or-.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.quellebellehistoire.com/auteurs/realisateurs_cinema.html'
+inLanguage: null
+keywords: []
+description: >-
+  Quelle Belle Histoire, agence d'agents pour scénariste de cinéma et
+  télévision, auteurs de DB et romanciers
+datePublished: '2016-06-29T09:57:59.303Z'
+dateModified: '2016-06-29T09:57:55.309Z'
+author: []
+related: []
+app_links: []
+title: '--|-- Quelle Belle Histoire --|--'
+sourcePath: _posts/2016-03-11--or-quelle-belle-histoire-or-.md
+authors: []
+publisher:
+  name: Quellebellehistoire
+  domain: www.quellebellehistoire.com
+  url: 'http://www.quellebellehistoire.com'
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
