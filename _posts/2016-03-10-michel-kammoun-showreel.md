@@ -8,8 +8,8 @@ keywords: []
 description: >-
   Michel Kammoun SHOWREEL Bande demo. Cinema. Fiction work. (Travail de fiction.
   Cinéma)
-datePublished: '2016-06-29T09:56:57.074Z'
-dateModified: '2016-06-29T09:56:54.424Z'
+datePublished: '2016-06-29T10:02:09.623Z'
+dateModified: '2016-06-29T10:02:06.166Z'
 author:
   - name: michel kammoun
     url: 'http://vimeo.com/user2337986'
