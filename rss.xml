@@ -4,8 +4,15 @@
         <description><![CDATA[michel kammoun]]></description>
         <link>http://michelkammoun.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 09:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 09:56:16 GMT</lastBuildDate>
         <atom:link href="http://michelkammoun.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>michelkammoun@gmail.com</p>]]></description>
+            <link>http://michelkammoun.com/b7168b22-8ec0-4b16-b156-65c4d8bbe260/index.html</link>
+            <guid isPermaLink="false">b7168b22-8ec0-4b16-b156-65c4d8bbe260</guid>
+            <pubDate>Wed, 29 Jun 2016 09:56:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michel Kammoun]]></title>
             <description><![CDATA[<article><h1>Michel Kammoun</h1><p>IMDB</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1063ecf5b3a2480b60ad3d610f711e7a/noop.png?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FG%2F01%2Fimdb%2Fimages%2Flogos%2Fimdb_fb_logo-1730868325._CB306318125_.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.quellebellehistoire.com/auteurs/realisateurs_cinema.html</link>
             <guid isPermaLink="false">ed820bbe-7998-41e2-b7fc-ff578f25fb13</guid>
             <pubDate>Fri, 11 Mar 2016 09:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>https://www.google.com.lb/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=6&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjsnJrNprjLAhXM1iwKHbUTDMkQFggqMAU&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMichel_Kammoun&amp;usg=AFQjCNHcWbJBWt8lCbH71od1R9QKcvr5Vg&amp;sig2=4Hp73w5786Sb36O4hyllWA</link>
-            <guid isPermaLink="false">0195cb88-aaf2-4edf-b5ae-237ddf5bc091</guid>
-            <pubDate>Fri, 11 Mar 2016 09:19:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
