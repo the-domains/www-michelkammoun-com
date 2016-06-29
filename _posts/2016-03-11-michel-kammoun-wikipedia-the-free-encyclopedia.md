@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://en.wikipedia.org'
-  name: Wikipedia
-  favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
-  domain: en.wikipedia.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://en.wikipedia.org/wiki/Michel_Kammoun'
+inLanguage: en
 keywords:
   - film
   - festival
@@ -17,22 +15,29 @@ keywords:
   - michel
   - award
   - '2007'
-description: 'Michel Kammoun was born in 1969. After maths studies in Lebanon, he joined the film school ESEC, in Paris. He has written and directed many short films including Cathodique (1993), Shadows (1995), The Shower (1999), Clowning Around/The Vanishing Rabbits (2003).'
-inLanguage: en
+description: >-
+  Michel Kammoun was born in 1969. After maths studies in Lebanon, he joined the
+  film school ESEC, in Paris. He has written and directed many short films
+  including Cathodique (1993), Shadows (1995), The Shower (1999), Clowning
+  Around/The Vanishing Rabbits (2003).
+datePublished: '2016-06-29T09:57:21.611Z'
+dateModified: '2016-06-29T09:55:43.186Z'
+author: []
+related: []
 app_links:
   - path: http/en.m.wikipedia.org/wiki/Michel_Kammoun
     package: org.wikipedia
     namespace: google
     type: android
-isBasedOnUrl: 'https://en.wikipedia.org/wiki/Michel_Kammoun'
 title: 'Michel Kammoun - Wikipedia, the free encyclopedia'
-datePublished: '2016-03-11T10:49:49.293Z'
-dateModified: '2016-03-11T10:49:25.581Z'
 sourcePath: _posts/2016-03-11-michel-kammoun-wikipedia-the-free-encyclopedia.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Wikipedia
+  domain: en.wikipedia.org
+  url: 'https://en.wikipedia.org'
+  favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
